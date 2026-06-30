@@ -1,2 +1,2 @@
-# duruShruthi
-India-Runs-Data-AI-Challenge
+# India-Runs-Data-AI-Challenge
+Hack2Skills
